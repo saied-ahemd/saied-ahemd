@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm saied ahmed saied ahmed</h1>
+<h1 align="center">Hi 👋, I'm saied ahmed</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/saied-ahemd](https://github.com/saied-ahemd)
