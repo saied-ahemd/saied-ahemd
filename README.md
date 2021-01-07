@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saied-ahemd](https://github.com/saied-ahemd)
 
-- 💬 Ask me about **laravel , php , bootstrap etc ..**
+- 💬 Ask me about **machine learning , deep learning , NLP etc ..**
 
 - 📫 How to reach me **saiedahmedsaied821@gmail.com**
 
