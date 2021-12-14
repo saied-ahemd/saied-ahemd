@@ -32,7 +32,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="#" width="30px">&nbsp;***About me ....***
 
 ✔ I’m currently Developing My skills in the Data field **<br>
 ✔ I’m currently learning about **Data analyst |Business Intelligence (BI)**🥰<br>
