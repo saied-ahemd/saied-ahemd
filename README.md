@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    Hello, I am saied ahmed a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Helwan</b></a>. <br>
+    Hello, I am saied ahmed a <b>final year</b> undergraduate from <a href="http://safcai.helwan.edu.eg/index.php/ar/"> <b>University Of Helwan</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
