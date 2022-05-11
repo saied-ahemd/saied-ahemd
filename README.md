@@ -59,7 +59,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png"> </code>
-  <code> <img height="50" src=https://pngset.com/images/logo-of-ms-excel-first-aid-text-label-symbol-transparent-png-562710.png> </code>
+  <code> <img height="50" src=https://w7.pngwing.com/pngs/957/261/png-transparent-microsoft-excel-logo-microsoft-excel-computer-icons-spreadsheet-computer-software-microsoft-angle-text-rectangle.png> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <hr>
